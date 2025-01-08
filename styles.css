@@ -15,9 +15,9 @@ body {
 .dino {
     position: absolute;
     bottom: 0;
-    left: 50px;
-    width: 30px; 
-    height: 30px; 
+    left: 70px;
+    width: 40px; 
+    height: 60px; 
     background-image: url('https://raw.githubusercontent.com/aninew/my_game/refs/heads/main/WhatsApp%20Image%202025-01-07%20at%2022.04.25_7f4fa31e.jpg'); 
     background-size: contain; 
     background-repeat: no-repeat;
